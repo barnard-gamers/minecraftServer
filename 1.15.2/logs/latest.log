@@ -1,12 +1,12 @@
-[12:14:57] [User Authenticator #3/INFO]: UUID of player cpt_poyo is 956f50d9-3407-4d32-869d-23f79d628dd2
-[12:14:57] [Server thread/INFO]: cpt_poyo[/192.168.50.252:60300] logged in with entity id 11628 at (321.299999974668, 85.0000002, -184.70000002533197)
-[12:14:57] [Server thread/INFO]: cpt_poyo joined the game
-[12:16:07] [Server thread/WARN]: cpt_poyo was kicked for floating too long!
-[12:16:07] [Server thread/INFO]: cpt_poyo lost connection: Flying is not enabled on this server
-[12:16:07] [Server thread/INFO]: cpt_poyo left the game
-[12:16:12] [User Authenticator #4/INFO]: UUID of player cpt_poyo is 956f50d9-3407-4d32-869d-23f79d628dd2
-[12:16:12] [Server thread/INFO]: cpt_poyo[/192.168.50.252:60472] logged in with entity id 11797 at (321.299999974668, 85.0000002, -184.70000002533197)
-[12:16:12] [Server thread/INFO]: cpt_poyo joined the game
-[13:27:46] [Server thread/INFO]: cpt_poyo fell from a high place
-[13:56:30] [Server thread/INFO]: cpt_poyo lost connection: Disconnected
-[13:56:30] [Server thread/INFO]: cpt_poyo left the game
+[03:39:43] [Server thread/INFO]: Stopping server
+[03:39:43] [Server thread/INFO]: Saving players
+[03:39:43] [Server thread/INFO]: Saving worlds
+[03:39:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:39:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:39:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:39:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:39:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:39:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:39:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
